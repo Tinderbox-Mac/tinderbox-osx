@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/tinderbox">  
+<a href="https://tubus-jubus-apps.github.io/.github/tinderbox">  
 <img src="https://img.shields.io/badge/⬇️_Get_Tinderbox-blue?style=for-the-badge&logo=apple" alt="Get Tinderbox">  
 </a>  
 </div>  
